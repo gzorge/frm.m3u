@@ -1,0 +1,115 @@
+#EXTM3U
+#EXTINF:0,Shant TV Nevs
+#EXTGRP:unsorted
+https://eu.divan.tv:8081/secure/xvJFB2-ePALgn1UQ7EiYog/1549586225/tv278/5c5c5eb1c3e3a8.37014044/single.m3u8
+#EXTINF:0,2 ARKHI
+#EXTGRP:unsorted
+https://tv.cdn.xsg.ge/gpb-2tv/tracks-v1a1/mono.m3u8
+#EXTINF:0,1 ARKHI
+#EXTGRP:unsorted
+https://tv.cdn.xsg.ge/gpb-1tv/tracks-v1a1/mono.m3u8
+#EXTINF:0,rustavi2
+#EXTGRP:unsorted
+http://md-store4.tulix.tv/rustavi2/index.m3u8
+#EXTINF:0,HorizonTV Armenia
+#EXTGRP:unsorted
+http://5.254.76.34:17070/C441/index.m3u8?token=kdsdkwy453wrRq29IIIo
+#EXTINF:0,Shant1
+#EXTGRP:unsorted
+http://79.135.79.162:4022/udp/239.195.241.25:1234?zona-iptv.ru
+#EXTINF:0,Shant
+#EXTGRP:unsorted
+http://92.39.227.235:81/udp/235.10.10.169:1234
+#EXTINF:0,ARTN us Shant
+#EXTGRP:unsorted
+http://livestream.usatv.com/hls/m3u8/ARTN-NET.m3u8
+#EXTINF:0,H1
+#EXTGRP:unsorted
+http://92.43.140.249/s1/index.m3u8
+#EXTINF:0,H2
+#EXTGRP:unsorted
+http://92.43.140.249/s2/index.m3u8
+#EXTINF:0,H3
+#EXTGRP:unsorted
+http://92.43.140.249/s12/index.m3u8
+#EXTINF:0,Cineman
+#EXTGRP:unsorted
+http://92.43.140.249/s66/04.m3u8
+#EXTINF:0,U!Premium
+#EXTGRP:unsorted
+http://92.43.140.249/s83/index.m3u8
+#EXTINF:0,Filmzon ATV
+#EXTGRP:unsorted
+http://92.43.140.249/s48/04.m3u8
+#EXTINF:0,АРМЕНИЯ ТВ
+#EXTGRP:unsorted
+http://91.210.24.70:88/tv_Armenia/video.m3u8
+#EXTINF:0,Yerkir Media
+#EXTGRP:unsorted
+http://92.43.140.249/s7/index.m3u8
+#EXTINF:0,US Armenia Tv
+#EXTGRP:unsorted
+http://livestream.usatv.com/hls/m3u8/USARMENIA480.m3u8
+#EXTINF:0,Tuntunik
+#EXTGRP:unsorted
+http://92.43.140.249/s46/index.m3u8
+#EXTINF:0,Tava ATV
+#EXTGRP:unsorted
+http://92.43.140.249/s53/index.m3u8
+#EXTINF:0,Shoxakat
+#EXTGRP:unsorted
+http://92.43.140.249/s13/index.m3u8
+#EXTINF:0,Kinoman ATV
+#EXTGRP:unsorted
+http://92.43.140.249/s94/index.m3u8
+#EXTINF:0,Kentron Tv
+#EXTGRP:unsorted
+http://92.43.140.249/s5/index.m3u8
+#EXTINF:0,Jan ATV
+#EXTGRP:unsorted
+http://92.43.140.249/s42/index.m3u8
+#EXTINF:0,Hay kino
+#EXTGRP:unsorted
+http://92.43.140.249/s22/index.m3u8
+#EXTINF:0,Hay ATV
+#EXTGRP:unsorted
+http://92.43.140.249/s73/index.m3u8
+#EXTINF:0,ArTV
+#EXTGRP:unsorted
+http://92.43.140.249/s9/index.m3u8
+#EXTINF:0,Song Tv Armenia
+#EXTGRP:unsorted
+https://songtvam.ru:4443/high/playlist.m3u8
+#EXTINF:0,ATV
+#EXTGRP:unsorted
+http://92.43.140.249/s8/index.m3u8
+#EXTINF:0,ARTN Shant
+#EXTGRP:unsorted
+http://livestream.usatv.com/hls/m3u8/ARTN-NET.m3u8
+#EXTINF:0,ArmNews ATV
+#EXTGRP:unsorted
+http://92.43.140.249/s11/index.m3u8
+#EXTINF:0,Azatutyun Tv
+#EXTGRP:unsorted
+http://92.43.140.249/s3/index.m3u8
+#EXTINF:0,Armenia Tv
+#EXTGRP:unsorted
+http://92.43.140.249/s4/index.m3u8
+#EXTINF:0,Armenia Comedy
+#EXTGRP:unsorted
+http://92.43.140.249/s32/index.m3u8
+#EXTINF:0,Ararat HD
+#EXTGRP:unsorted
+http://92.43.140.249/s6/index.m3u8
+#EXTINF:0,21 Tv
+#EXTGRP:unsorted
+http://92.43.140.249/s10/index.m3u8
+#EXTINF:0,TBN Armenia
+#EXTGRP:unsorted
+http://bogtvhdlive-f.akamaihd.net/i/tbn_armenia@198331/index_500_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0,Bazmoc
+#EXTGRP:unsorted
+http://92.43.140.249/s74/04.m3u8
+#EXTINF:0,AMGA
+#EXTGRP:unsorted
+https://streamer1.connectto.com/AMGA_WEB_1202/amga/tracks-v1a1/mono.m3u8
